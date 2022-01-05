@@ -9,7 +9,7 @@ In this project, I looked utilized dictionary analysis to examine how ideologica
 ### Why study these portrayals?
 Given the rising popularity of discussions on taxing the rich and Democratic political candidates who champion issues pertaining to raising taxes on the rich, it would be interesting to see how the rich, the group that is implicated in this discourse, is discussed in the media, especially in media.
 
-## Data and Methods
+## Methods
 I assembled a dataset of news transcripts from Fox News and MSNBC. The time frame of analysis is January 1, 2006 to December 31, 2013. This time frame was selected because it contained two major events related to economic inequality, specifically the 2008 Financial Crisis and the 2011 Occupy Wall Street Movement. The selected time frame enables me to look at the two years prior to and after each of these major events, thereby allowing me to get a gauge of how the rich were discussed before and after these events.
 
 ### Data Collection and Management
@@ -21,12 +21,15 @@ Each transcript was then processed. Paragraphs that did not mention rich individ
 ### Dictionary Construction 
 I created four dictionaries to assess low/high competence and morality in order to conduct dictionary-based analysis. These dictionaries will allow for me to operationalize the number of times each news network described the rich as high or low in competence and morality. I began the dictionary creation phase with the items that appeared in the Fiske et al. (2002) Stereotype Content Model. This is a well established social psychology model that examines people's perceptions of social groups. It has two dimensions: (1) perceived morality and (2) erceived competence. 
 
-For the high competence dictionary, I started off with their items of competent, confident, independent, competitive, and intelligent. Next, I went through each adjective and looked up its synonyms in the thesaurus and included those synonyms. For instance, for the term competent, I included its synonyms such as able, capable, fit, and good. This dictionary ended up with a total of 145 terms.
+- For the high competence dictionary, I started off with their items of competent, confident, independent, competitive, and intelligent. Next, I went through each adjective and looked up its synonyms in the thesaurus and included those synonyms. For instance, for the term competent, I included its synonyms such as able, capable, fit, and good. This dictionary ended up with a total of 145 terms.
 
-For low competence, I looked up the antonyms to the Fiske et al. (2002) items and then proceeded to look for its synonyms. This resulted in a total of 92 terms. 
+- For low competence, I looked up the antonyms to the Fiske et al. (2002) items and then proceeded to look for its synonyms. This resulted in a total of 92 terms. 
 
-For high morality, I utilized Fiske et al.’s (2002) items, tolerant, warm, good-natured, and sincere, and then expanded off this list by looking at their synonyms. This dictionary ended up with 128 terms. 
+- For high morality, I utilized Fiske et al.’s (2002) items, tolerant, warm, good-natured, and sincere, and then expanded off this list by looking at their synonyms. This dictionary ended up with 128 terms. 
 
-For low morality, I looked up the antonyms of those words and then expanded off the list by looking up their synonyms. This dictionary ended up with 247 terms. For all the terms included in these four dictionaries, please refer to the appendix for more details. 
+- For low morality, I looked up the antonyms of those words and then expanded off the list by looking up their synonyms. This dictionary ended up with 247 terms. For all the terms included in these four dictionaries, please refer to the appendix for more details. 
 
 To count the occurrence of high/low competence/morality words, each dictionary is parsed through the news transcripts. Dictionary words that appeared in the news transcripts were accounted for. The count is then standardized by taking the number of occurrences of dictionary divided by the total number of words that appeared in each transcript. For both MSNBC and Fox News’ coverage, all eight years of coverage portrayed the rich as high competence more so than low competence. 
+
+## Ideological Differences in the Portrayal of the Rich
+
