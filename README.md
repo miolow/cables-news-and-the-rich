@@ -31,8 +31,21 @@ I created four dictionaries to assess low/high competence and morality in order 
 
 To count the occurrence of high/low competence/morality words, each dictionary is parsed through the news transcripts. Dictionary words that appeared in the news transcripts were accounted for. The count is then standardized by taking the number of occurrences of dictionary divided by the total number of words that appeared in each transcript. For both MSNBC and Fox News’ coverage, all eight years of coverage portrayed the rich as high competence more so than low competence. 
 
+## General Portrayal of the Rich
+- Generally speaking, the cable news media portrayed the rich as high in competence (1.62% mention in high competence terms) rather than in low competence (0.28%). It also portrays the rich as low in morality (0.91%) than high morality (0.67%). 
+- In other words, there is a tendency to view the rich as capable and highly talented but unscrupulous and unprincipled. This is consistent with findings from the social psychology literature (see Fiske et al. 2002).  
+
 ## Ideological Differences in the Portrayal of the Rich
 - There is little difference in Fox News and MSNBC's portrayal of the rich when it comes to high competence. Across all eight years, both news network had similar percentages in their mention of high competence words when it comes to describing the rich, 1.60% for Fox News and 1.65% for MSNBC. 
 - For low competence mentions, Fox News (0.27%) used higher percentage of low competence (0.09%) description than MSNBC.
 - In terms of high morality, the two news network differed. Fox News (0.76%) used more high morality terms than MSNBC (0.57%). 
 - For low morality, the two networks did not differed much. Fox News (0.94%) reported higher levels of low morality terms than MSNBC (0.88%). 
+- In general, Fox News and MSNBC's depiction of the rich differed only in terms of low competence, high morality, and low morality. 
+
+## The Changing Portrayal of the Rich Across Time
+Over the period between 2006 to 2013, two major political events, namely, the 2008 Financial Crisis and the 2011 Occupy Wall Street movement had taken place. In each of these events, the rich were implicated in one way or another. 
+
+### 2008 Financial Crisis
+For this event, the rich and their careless and unethical business practices were frequently singled out for causing the economic collapse. I tracked portrayals of the rich before and after the crisis. See table for more detailed figures. 
+- Prior to the 2008 Financial Crisis, particularly in 2007, high competence mentions was at 1.72%. This dropped to 1.34% in 2009, a year after the economic crisis. As for low competence, it was at 0.12%  in 2007 and this increased to 0.60% in 2009. These figures suggest that the economic crisis led to a more negative portrayal of the rich in terms of competence. 
+- High morality portrayal was at 0.64% in 2007, this dropped to 0.49% in 2008, the year of the Financial Crisis, but suprisingly moved back up to 0.95%. As for low morality mentions, it was at 1.23% prior to the Financial Crisis. This surprisingly declined to 0.62% in 2008 and increased back up to 0.79% in 2009. These numbers suggest that morality depiction of the rich became slightly more positive. This is counterintuitive to what we might expect, especially given that the discourse of the time had singled out the rich's corrupt and greedy business practices as the cause of the Financial Crisis. 
