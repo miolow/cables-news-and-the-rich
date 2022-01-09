@@ -3,7 +3,7 @@ A text analysis project which looks at how American ideological news networks li
 
 ## Introduction
 In this project, I looked utilized dictionary analysis to examine how ideological news networks portray the rich. I am particularly interested in two things:
-1. How has the conservative Fox News and liberal MSNBC portray the rich? Are there differences in the way the two news networks discuss about the rich? 
+1. How has the conservative Fox News and the liberal MSNBC portray the rich? Are there differences in the way the two news networks discuss about the rich? 
 2. Whether portrayals of the rich change as relevant news events about the rich take place. For example, how has the 2008 Financial Crisis and 2011 Occupy Wall Street movement changed the way cable news depict the rich? 
 
 ### Why study these portrayals?
@@ -32,4 +32,7 @@ I created four dictionaries to assess low/high competence and morality in order 
 To count the occurrence of high/low competence/morality words, each dictionary is parsed through the news transcripts. Dictionary words that appeared in the news transcripts were accounted for. The count is then standardized by taking the number of occurrences of dictionary divided by the total number of words that appeared in each transcript. For both MSNBC and Fox News’ coverage, all eight years of coverage portrayed the rich as high competence more so than low competence. 
 
 ## Ideological Differences in the Portrayal of the Rich
-
+- There is little difference in Fox News and MSNBC's portrayal of the rich when it comes to high competence. Across all eight years, both news network had similar percentages in their mention of high competence words when it comes to describing the rich, 1.60% for Fox News and 1.65% for MSNBC. 
+- For low competence mentions, Fox News (0.27%) used higher percentage of low competence (0.09%) description than MSNBC.
+- In terms of high morality, the two news network differed. Fox News (0.76%) used more high morality terms than MSNBC (0.57%). 
+- For low morality, the two networks did not differed much. Fox News (0.94%) reported higher levels of low morality terms than MSNBC (0.88%). 
