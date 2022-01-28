@@ -103,13 +103,15 @@ For this event, the rich and their careless and unethical business practices wer
 </p>
 - Prior to the Financial Crisis, in 2006 and 2007: 
   - MSNBC had more high competence depictions than Fox News (1.55% versus 1.16% in 2006; 1.84% versus 1.58% in 2007). 
-  - MSNBC had less low competence depictions than Fox News in 2006 (0.18% versus 0.22%) but more low competence depictions in 2007 (0.15% versus 0.09%). 
+  - MSNBC had less low competence depictions than Fox News in 2006 (0.18% versus 0.22%) but more low competence depictions in 2007 (0.15% versus 0.09%).
   - In other words, prior to the Financial Crisis, MSNBC had a more favorable portrayal of the rich in terms of competency than Fox News. 
+
 - During the year of the Financial Crisis: 
   - Fox News experienced an increase in their use of high competence descriptors (from 1.58% to 1.84% in 2008) while MSNBC decreased theirs (from 1.84% to 1.55% in 2008), resulting in Fox News presenting more high competence portrayal of the rich than MSNBC. 
   - As for low competence, Fox News’ use of terms in this category increased (from 0.09% to 0.28%) while MSNBC experienced no change at all (0.15%). 
   - This revealed that compared to MSNBC, Fox News maintained a more positive coverage of the rich despite the Financial Crisis. 
-- After the Financial Crisis: 
+
+- After the Financial Crisis:
   - Fox News decreased its high competence portrayals in 2009 (from 1.84% to 1.26%) and then an increase in 2010 (from 1.26% to 1.76%). 
   - MSNBC also experienced a decrease in high competence portrayals in 2009 (from 1.55% to 1.45%) and eventually an increase in 2010 (1.45% to 2.00%). 
   - Both news networks also increased their use of low competence descriptors in 2009; Fox News increased its use of low competence portrayals from 0.28% to 0.42%; MSNBC increased low competence portrayals from 0.15% to 0.81%. 
@@ -117,7 +119,6 @@ For this event, the rich and their careless and unethical business practices wer
   - In 2010, from 0.42% to 0.29% for Fox News and 0.81% to 0.26% for MSNBC. 
   - These numbers suggest that in light of the 2008 FC, while both networks became more critical in their depiction of the rich, MSNBC rolled out a more critical and negative coverage of the rich as indicated by their substantial increased use of low competence terms compared to Fox News (0.66% versus 0.33%). 
   - However, this negative coverage of the rich did not last long. For both news networks, low competence portrayal eventually moved back to what it was prior to the 2008 Financial Crisis while high competence portrayal increased to a rate that was higher than the pre-Financial Crisis depiction.
-
 
 ### Morality
 <p align="center">
