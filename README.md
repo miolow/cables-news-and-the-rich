@@ -78,6 +78,15 @@ For this event, the rich and their careless and unethical business practices wer
 -  The increase in high morality descriptors and decrease in low morality descriptors after the 2008 FC is surprising, given that one of the main themes recurring in the discourse of the Financial Crisis is the corrupt and greedy business practices of the executives of Wall Street. 
 
 ### 2011 Occupy Wall Street Movement
+
+<p align="center">
+  <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Compare.png">
+</p>
+
+<p align="center">
+  <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Moral.png">
+</p>
+
 Participants of this movement protested against extreme wealth inequality and the exploitations and discriminatory practices of the rich. 
 - High competence mentions was at 1.34% in 2009 and 1.87% in 2010. This fell in 2011, during the year of OWS, to 1.61% and then increased again to 1.74% in 2012. 
 - Low competence mention was at 0.20% in 2009 and 0.27% in 2010. This decreased to 0.22% in the year of OWS (2011) and increased to 0.26% in 2012 and 0.33% in 2013. 
