@@ -123,6 +123,7 @@ For this event, the rich and their careless and unethical business practices wer
 <p align="center">
   <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_moral_news.png">
 </p>
+
 - Prior to the 2008 Financial Crisis:
   - MSNBC had a more negative coverage of the rich than Fox News, this is indicated by their lower high morality depictions (0.38% versus 0.53%) and higher low morality depictions (1.53% versus 1.09%) in 2006. 
   - This difference in coverage on the morality of the rich minimized slightly in 2007, not so much in terms of high morality depictions but more so for low morality portrayals.
