@@ -43,7 +43,7 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 
 ### Competence
 <p align="center">
-  <img width="1000" height="750" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combined_top20_comp.png">
+  <img width="1000" height="800" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combined_top20_comp.png">
 </p>
 
 - The top five commonly used high competence words include “top”, “success”, “creat-”, “worth”, and “power”. 
@@ -51,7 +51,7 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 
 ### Morality 
 <p align="center">
-  <img width="1000" height="750" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combine_top20_moral.png">
+  <img width="1000" height="800" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combine_top20_moral.png">
 </p>
 
 - The top five low morality words to occur in this analysis are, “attack”, “kill”, “bad”, “wrong” and, “murder”. 
@@ -73,19 +73,19 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 
 ### Competence
 <p align="center">
-  <img width="1000" height="750" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/loComp_compare.png">
+  <img width="1000" height="800" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/loComp_compare.png">
 </p>
 <p align="center">
-  <img width="1000" height="750" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/hiComp_compare.png">
+  <img width="1000" height="800" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/hiComp_compare.png">
 </p>
 
 
 ### Morality 
 <p align="center">
-  <img width="1000" height="750" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/loMoral_Compare.png">
+  <img width="1000" height="800" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/loMoral_Compare.png">
 </p>
 <p align="center">
-  <img width="1000" height="750" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/hiMoral_Compare.png">
+  <img width="1000" height="800" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/hiMoral_Compare.png">
 </p>
 
 
