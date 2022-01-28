@@ -69,10 +69,13 @@ For this event, the rich and their careless and unethical business practices wer
   <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Moral.png">
 </p>
 
+#### Competence
 - Prior to the Financial Crisis and in 2006 and 2007, high competence depiction was at 1.35% and 1.72% respectively. It remained at 1.72% during 2008, the year of the Financial Crisis, dipped to 1.34% in 2009, and increased to 1.87% in 2010.
 -  As for low competence portrayals, it was at a low of 0.20% and 0.12% in 2006 and 2007. It increased to 0.22% in 2008, surged to 0.60% in 2009, and eventually dipped back down to 0.27%. 
 -  This overall decreasing trend for high competence mentions and increasing trend for low competence mentions in 2009 (a year after the Financial Crisis) matches with the ongoing discourse of the time, whereby the rich, particularly the executives of Wall Street were condemned for their failed business practices and decisions. 
 -  After 2009 and in 2010, we can see the effects of the 2008 Financial Crisis discourse trailing off as the use of high competence terms increased again to a high while the use of low competence terms decreased to nearly where it was back in 2006. 
+
+#### Morality
 -  Turning to morality, we see that high morality portrayals were at 0.46% in 2006 and 0.64% in 2007, these mentions dipped down to 0.49% in 2008, and moved back up to 0.95% in 2009 and to 0.62% in 2010. 
 -  As for low morality mentions, it was at 1.31% in 2006 and 1.23% in 2007, decreased to 0.62% in 2008, and back up to 0.79% in 2009 and 0.73% in 2010. 
 -  The increase in high morality descriptors and decrease in low morality descriptors after the 2008 FC is surprising, given that one of the main themes recurring in the discourse of the Financial Crisis is the corrupt and greedy business practices of the executives of Wall Street. 
@@ -87,10 +90,12 @@ For this event, the rich and their careless and unethical business practices wer
   <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Moral.png">
 </p>
 
-Participants of this movement protested against extreme wealth inequality and the exploitations and discriminatory practices of the rich. 
+#### Competence
 - High competence mentions was at 1.34% in 2009 and 1.87% in 2010. This fell in 2011, during the year of OWS, to 1.61% and then increased again to 1.74% in 2012. 
 - Low competence mention was at 0.20% in 2009 and 0.27% in 2010. This decreased to 0.22% in the year of OWS (2011) and increased to 0.26% in 2012 and 0.33% in 2013. 
 - These numbers tell us that the OWS Movement’s rhetoric about the rich’s catastrophic failure in business practices had little long term effect on the media’s portrayal of the rich. High competence depictions did not only not decrease but increased over time. 
+
+#### Morality
 - In 2009 and 2010, high morality mention was at 0.46% and 0.62% respectively. This surprisingly increased to 0.91% in 2011, the year of the OWS movement. But after the peak of the movement, high morality mention dipped to 0.76% in 2012 and to 0.53% in 2013. 
 - As for low morality portrayals, it was at a high of 1.31% in 2009. It dipped to 0.73% in 2010 and 0.75% in 2011. A year after OWS, low morality depictions decreased further to 0.58% in 2012 and increased a little to 0.64% in 2013. 
 - These figures demonstrated that the media presented its most critical and negative coverage of the rich in 2009 and 2010, the years after the 2008 Financial Crisis. This negative coverage of the rich waned in 2011, 2012, and 2013, despite OWS’ rhetoric about how the rich is unprincipled, greedy, and immoral. Taken together, this suggests that OWS seem to exert little effect on swaying the media to present a more negative and critical coverage of the rich.  
@@ -98,9 +103,36 @@ Participants of this movement protested against extreme wealth inequality and th
 
 ## Ideological Differences in the Portrayal of the Rich During the 2008 Financial Crisis
 ### Competence
-- The findings revealed that MSNBC started with a more positive coverage of the rich’s competence than Fox News.
-  - During the year of 2008 FC, Fox News had a slightly more favorable coverage of the rich’s competency. 
-  - After the 2008 FC, both news networks ended up with similar coverage on the rich’s competency. 
-- MSNBC started with a more negative coverage of the rich’s morality.  
-  - Fox News had used more positive morality related (i.e., high morality terms) descriptors of the rich but less negative morality related (i.e., low morality terms) descriptors in the beginning. 
-  - After the 2008 FC, MSNBC ended up with a more negative coverage of the rich’s morality.
+- Prior to the Financial Crisis, in 2006 and 2007: 
+  - MSNBC had more high competence depictions than Fox News (1.55% versus 1.16% in 2006; 1.84% versus 1.58% in 2007). 
+  - MSNBC had less low competence depictions than Fox News in 2006 (0.18% versus 0.22%) but more low competence depictions in 2007 (0.15% versus 0.09%). 
+  - In other words, prior to the Financial Crisis, MSNBC had a more favorable portrayal of the rich in terms of competency than Fox News. 
+- During the year of the Financial Crisis: 
+  - Fox News experienced an increase in their use of high competence descriptors (from 1.58% to 1.84% in 2008) while MSNBC decreased theirs (from 1.84% to 1.55% in 2008), resulting in Fox News presenting more high competence portrayal of the rich than MSNBC. 
+  - As for low competence, Fox News’ use of terms in this category increased (from 0.09% to 0.28%) while MSNBC experienced no change at all (0.15%). 
+  - This revealed that compared to MSNBC, Fox News maintained a more positive coverage of the rich despite the Financial Crisis. 
+- After the Financial Crisis: 
+  - Fox News decreased its high competence portrayals in 2009 (from 1.84% to 1.26%) and then an increase in 2010 (from 1.26% to 1.76%). 
+  - MSNBC also experienced a decrease in high competence portrayals in 2009 (from 1.55% to 1.45%) and eventually an increase in 2010 (1.45% to 2.00%). 
+  - Both news networks also increased their use of low competence descriptors in 2009; Fox News increased its use of low competence portrayals from 0.28% to 0.42%; MSNBC increased low competence portrayals from 0.15% to 0.81%. 
+  - These low competence portrayals began to drop in numbers the year after. 
+  - In 2010, from 0.42% to 0.29% for Fox News and 0.81% to 0.26% for MSNBC. 
+  - These numbers suggest that in light of the 2008 FC, while both networks became more critical in their depiction of the rich, MSNBC rolled out a more critical and negative coverage of the rich as indicated by their substantial increased use of low competence terms compared to Fox News (0.66% versus 0.33%). 
+  - However, this negative coverage of the rich did not last long. For both news networks, low competence portrayal eventually moved back to what it was prior to the 2008 Financial Crisis while high competence portrayal increased to a rate that was higher than the pre-Financial Crisis depiction.
+
+
+### Morality
+- Prior to the 2008 Financial Crisis:
+  - MSNBC had a more negative coverage of the rich than Fox News, this is indicated by their lower high morality depictions (0.38% versus 0.53%) and higher low morality depictions (1.53% versus 1.09%) in 2006. 
+  - This difference in coverage on the morality of the rich minimized slightly in 2007, not so much in terms of high morality depictions but more so for low morality portrayals. 
+  - Fox News’ ended up with higher low morality portrayals than MSNBC (1.73% versus 0.77%). MSNBC continued to have lower high morality portrayals than Fox News (0.49% versus 0.80%). 
+- During the year of the 2008 Financial Crisis: 
+  - both news networks decreased their high morality portrayals. Fox News decreased from 0.80% to 0.60% while MSNBC decreased theirs from 0.49% to 0.25%. 
+  - As for low morality portrayals, Fox News reduced their low portrayal depictions substantially, from 1.73% to 0.77%. Similarly, MSNBC reduced theirs from 0.77% to 0.46%. 
+  - Comparing across news networks, it appears that during the year of the Financial Crisis, MSNBC produced a harsher morality-based presentation of the rich than Fox News.
+- After the 2008 Financial Crisis: 
+  - High morality portrayals surprisingly increased for both networks. 
+  - Fox News’ high morality depictions increased from 0.60% to 1.03%. Similarly, MSNBC increased their high morality depictions from 0.25% to 0.86%. 
+  - Low morality depictions decreased for Fox News, from 0.74% to 0.63% while it increased for MSNBC from 0.46% to 0.99%. 
+  - These figures indicate that after the Financial Crisis, MSNBC continued to maintain a harsher morality-based coverage of the rich than Fox News. 
+
