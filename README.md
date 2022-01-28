@@ -62,11 +62,11 @@ Over the period between 2006 to 2013, two major political events, namely, the 20
 For this event, the rich and their careless and unethical business practices were frequently singled out for causing the economic collapse. I tracked portrayals of the rich before and after the crisis.
 
 <p align="center">
-  <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Comp.png">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Comp.png">
 </p>
 
 <p align="center">
-  <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Moral.png">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Moral.png">
 </p>
 
 #### Competence
@@ -83,11 +83,11 @@ For this event, the rich and their careless and unethical business practices wer
 ### 2011 Occupy Wall Street Movement
 
 <p align="center">
-  <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Compare.png">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Compare.png">
 </p>
 
 <p align="center">
-  <img width="850" height="650" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Moral.png">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Moral.png">
 </p>
 
 #### Competence
@@ -103,6 +103,14 @@ For this event, the rich and their careless and unethical business practices wer
 
 ## Ideological Differences in the Portrayal of the Rich During the 2008 Financial Crisis
 ### Competence
+<p align="center">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_comp_news.png">
+</p>
+
+<p align="center">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_moral_news.png">
+</p>
+
 - Prior to the Financial Crisis, in 2006 and 2007: 
   - MSNBC had more high competence depictions than Fox News (1.55% versus 1.16% in 2006; 1.84% versus 1.58% in 2007). 
   - MSNBC had less low competence depictions than Fox News in 2006 (0.18% versus 0.22%) but more low competence depictions in 2007 (0.15% versus 0.09%). 
