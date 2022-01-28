@@ -33,16 +33,22 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 
 ## General Portrayal of the Rich
 
-| Source | Low Competence | High Competence | Low Morality | High Morality |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Fox News | 0.27 | 1.60 | 0.94 | 0.76 |
-| MSNBC | 0.29 | 1.65 | 0.88 | 0.57 |
+| Low Competence | High Competence | Low Morality | High Morality |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| 0.28 | 1.63 | 0.91 | 0.67 |
+
 
 
 - Generally speaking, the cable news media portrayed the rich as high in competence (1.62% mention in high competence terms) rather than in low competence (0.28%). It also portrays the rich as low in morality (0.91%) than high morality (0.67%). 
 - In other words, there is a tendency to view the rich as capable and highly talented but unscrupulous and unprincipled. This is consistent with findings from the social psychology literature (see Fiske et al. 2002).  
 
 ## Ideological Differences in the Portrayal of the Rich
+
+| Source | Low Competence | High Competence | Low Morality | High Morality |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Fox News | 0.27 | 1.60 | 0.94 | 0.76 |
+| MSNBC | 0.29 | 1.65 | 0.88 | 0.57 |
+
 - There is little difference in Fox News and MSNBC's portrayal of the rich when it comes to high competence. Across all eight years, both news network had similar percentages in their mention of high competence words when it comes to describing the rich, 1.60% for Fox News and 1.65% for MSNBC. 
 - For low competence mentions, Fox News (0.27%) used higher percentage of low competence (0.29%) description than MSNBC.
 - In terms of high morality, the two news network differed. Fox News (0.76%) used more high morality terms than MSNBC (0.57%). 
