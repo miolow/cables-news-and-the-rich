@@ -59,7 +59,10 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 Over the period between 2006 to 2013, two major political events, namely, the 2008 Financial Crisis and the 2011 Occupy Wall Street movement had taken place. In each of these events, the rich were implicated in one way or another. 
 
 ### 2008 Financial Crisis
-For this event, the rich and their careless and unethical business practices were frequently singled out for causing the economic collapse. I tracked portrayals of the rich before and after the crisis. See table for more detailed figures. 
+For this event, the rich and their careless and unethical business practices were frequently singled out for causing the economic collapse. I tracked portrayals of the rich before and after the crisis.
+
+![Wrap text](https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Comp.png)
+
 - Prior to the Financial Crisis and in 2006 and 2007, high competence depiction was at 1.35% and 1.72% respectively. It remained at 1.72% during 2008, the year of the Financial Crisis, dipped to 1.34% in 2009, and increased to 1.87% in 2010.
 -  As for low competence portrayals, it was at a low of 0.20% and 0.12% in 2006 and 2007. It increased to 0.22% in 2008, surged to 0.60% in 2009, and eventually dipped back down to 0.27%. 
 -  This overall decreasing trend for high competence mentions and increasing trend for low competence mentions in 2009 (a year after the Financial Crisis) matches with the ongoing discourse of the time, whereby the rich, particularly the executives of Wall Street were condemned for their failed business practices and decisions. 
