@@ -61,7 +61,13 @@ Over the period between 2006 to 2013, two major political events, namely, the 20
 ### 2008 Financial Crisis
 For this event, the rich and their careless and unethical business practices were frequently singled out for causing the economic collapse. I tracked portrayals of the rich before and after the crisis.
 
-![Wrap text](https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Comp.png)
+<p align="center">
+  <img width="600" height="200" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Comp.png">
+</p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Moral.png">
+</p>
 
 - Prior to the Financial Crisis and in 2006 and 2007, high competence depiction was at 1.35% and 1.72% respectively. It remained at 1.72% during 2008, the year of the Financial Crisis, dipped to 1.34% in 2009, and increased to 1.87% in 2010.
 -  As for low competence portrayals, it was at a low of 0.20% and 0.12% in 2006 and 2007. It increased to 0.22% in 2008, surged to 0.60% in 2009, and eventually dipped back down to 0.27%. 
