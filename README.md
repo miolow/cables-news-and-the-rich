@@ -145,3 +145,43 @@ For this event, the rich and their careless and unethical business practices wer
   - Fox News’ high morality depictions increased from 0.60% to 1.03%. Similarly, MSNBC increased their high morality depictions from 0.25% to 0.86%. 
   - Low morality depictions decreased for Fox News, from 0.74% to 0.63% while it increased for MSNBC from 0.46% to 0.99%. 
   - These figures indicate that after the Financial Crisis, MSNBC continued to maintain a harsher morality-based coverage of the rich than Fox News. 
+
+## Ideological Differences in the Portrayal of the Rich During the 2008 Financial Crisis
+### Competence
+<p align="center">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/ows_comp_news.png">
+</p>
+
+- Prior to the 2011 Occupy Wall Street Movement:
+  - Fox News’ high competence mention of the rich was at 1.26% in 2009 and 1.72% in 2010. 
+  - As for MSNBC, high competence mention started off at 1.45% in 2009 and 2% in 2010. 
+  - MSNBC had a higher amount of high competence mention than Fox News prior to OWS. 
+  - As for low competence portrayals, MSNBC had a higher amount of low competence portrayals in 2009 than Fox News (0.81% versus 0.42%). But this difference in low competence depictions closed in 2010, with 0.29% for Fox News and 0.26% for MSNBC. 
+ 
+ - During the 2011 Occupy Wall Street Movement:
+   - High competence mentions decreased for both news networks, from 1.72% to 1.52% for Fox News and from 2.00% to 1.73% for MSNBC. 
+   - Low competence mentions also decreased for both news networks, from 0.29% to 0.28% for Fox News and from 0.26% to 0.14% for MSNBC. 
+   - At this time point, it appears that MSNBC had a more positive coverage of the rich with its higher amounts of high competence portrayal at 1.73% (versus 1.52% for Fox News) and lower amounts of low competence portrayal at 0.14% (versus 0.28% for Fox News). 
+
+- After the 2011 Occupy Wall Street Movement:
+  - Generally, Fox News appeared to increase both of its high and low competence depictions while MSNBC decreased both forms of depictions. 
+  - When comparing across both networks, Fox News had higher amounts of high competence portrayals than MSNBC in both 2012 (2.06% versus 1.53%) and 2013 (1.80% versus 1.57%). 
+  - For low competence depictions, Fox News had higher amounts of low competence portrayals than MSNBC in 2012 (0.36% versus 0.19%) but not in 2013 (0.23% versus 0.44%). By 2013, Fox News ended up with a more positive and less critical coverage of the rich’s competency than MSNBC. 
+
+### Morality
+<p align="center">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/ows_moral_news.png">
+</p>
+
+- Prior to the 2011 Occupy Wall Street Movement:
+  - Fox News presented a more positive coverage on the rich’s ethical conduct. 
+  - Fox News utilized a higher amount of high morality descriptors than MSNBC (1.03% versus 0.86% in 2009; 0.67% versus 0.58% in 2010). 
+  - Fox News also utilized a lower amount of low morality descriptors than MSNBC (0.63% versus 0.99% in 2009; 0.70% versus 0.75% in 2010). All of which indicated that Fox News had a more positive morality portrayal of the rich prior to OWS.
+
+- During the 2011 Occupy Wall Street Movement:
+  - Fox News increased its positive depiction of the rich, both in terms of increasing high morality portrayals (0.67% to 1.05%) and decreasing low morality portrayals (0.70% versus 0.51%). 
+  - Contrarily, MSNBC presented a more negative depiction of the rich by increasing low morality portrayals (0.75% to 1.11%). Its high morality portrayal increased slightly from 0.58% to 0.69%. 
+
+- After the 2011 Occupy Wall Street Movement:
+  - MSNBC ended up with a more positive coverage of the rich’s morality. MSNBC used a higher amount of high morality descriptors than Fox News (0.82% versus 0.66%), and a lower amount of low morality descriptors (0.71% versus 1.24%). 
+  - This difference in coverage of the rich minimized in 2013. MSNBC then ended up with lower levels of high morality descriptors than Fox News (0.39% versus 0.67%) and slightly lower levels of low morality descriptors (0.83% versus 0.92%). 
