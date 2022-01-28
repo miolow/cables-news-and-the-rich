@@ -98,3 +98,9 @@ Participants of this movement protested against extreme wealth inequality and th
 
 ## Ideological Differences in the Portrayal of the Rich During the 2008 Financial Crisis
 ### Competence
+- The findings revealed that MSNBC started with a more positive coverage of the rich’s competence than Fox News.
+  - During the year of 2008 FC, Fox News had a slightly more favorable coverage of the rich’s competency. 
+  - After the 2008 FC, both news networks ended up with similar coverage on the rich’s competency. 
+- MSNBC started with a more negative coverage of the rich’s morality.  
+  - Fox News had used more positive morality related (i.e., high morality terms) descriptors of the rich but less negative morality related (i.e., low morality terms) descriptors in the beginning. 
+  - After the 2008 FC, MSNBC ended up with a more negative coverage of the rich’s morality.
