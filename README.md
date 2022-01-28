@@ -38,9 +38,23 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 | 0.28 | 1.63 | 0.91 | 0.67 |
 
 
-
 - Generally speaking, the cable news media portrayed the rich as high in competence (1.62% mention in high competence terms) rather than in low competence (0.28%). It also portrays the rich as low in morality (0.91%) than high morality (0.67%). 
 - In other words, there is a tendency to view the rich as capable and highly talented but unscrupulous and unprincipled. This is consistent with findings from the social psychology literature (see Fiske et al. 2002).  
+
+### Competence
+<p align="center">
+  <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combined_top20_comp.png">
+</p>
+- The top five commonly used high competence words include “top”, “success”, “creat-”, “worth”, and “power”. 
+- The top five low competence words include, “lost”, “lose”, “fail”, “loss”, and “mistak-”. 
+
+### Morality 
+<p align="center">
+  <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combine_top20_moral.png">
+</p>
+- The top five low morality words to occur in this analysis are, “attack”, “kill”, “bad”, “wrong” and, “murder”. 
+- “Care”, “fair”, “nice”, “save”, and “correct” are the top five high morality words to occur. 
+
 
 ## Ideological Differences in the Portrayal of the Rich
 
