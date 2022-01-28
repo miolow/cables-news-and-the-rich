@@ -37,7 +37,7 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 
 ## Ideological Differences in the Portrayal of the Rich
 - There is little difference in Fox News and MSNBC's portrayal of the rich when it comes to high competence. Across all eight years, both news network had similar percentages in their mention of high competence words when it comes to describing the rich, 1.60% for Fox News and 1.65% for MSNBC. 
-- For low competence mentions, Fox News (0.27%) used higher percentage of low competence (0.09%) description than MSNBC.
+- For low competence mentions, Fox News (0.27%) used higher percentage of low competence (0.29%) description than MSNBC.
 - In terms of high morality, the two news network differed. Fox News (0.76%) used more high morality terms than MSNBC (0.57%). 
 - For low morality, the two networks did not differed much. Fox News (0.94%) reported higher levels of low morality terms than MSNBC (0.88%). 
 - In general, Fox News and MSNBC's depiction of the rich differed only in terms of low competence, high morality, and low morality. 
@@ -47,8 +47,13 @@ Over the period between 2006 to 2013, two major political events, namely, the 20
 
 ### 2008 Financial Crisis
 For this event, the rich and their careless and unethical business practices were frequently singled out for causing the economic collapse. I tracked portrayals of the rich before and after the crisis. See table for more detailed figures. 
-- Prior to the 2008 Financial Crisis, particularly in 2007, high competence mentions was at 1.72%. This dropped to 1.34% in 2009, a year after the economic crisis. As for low competence, it was at 0.12%  in 2007 and this increased to 0.60% in 2009. These figures suggest that the economic crisis led to a more negative portrayal of the rich in terms of competence. 
-- High morality portrayal was at 0.64% in 2007, this dropped to 0.49% in 2008, the year of the Financial Crisis, but suprisingly moved back up to 0.95%. As for low morality mentions, it was at 1.23% prior to the Financial Crisis. This surprisingly declined to 0.62% in 2008 and increased back up to 0.79% in 2009. These numbers suggest that morality depiction of the rich became slightly more positive. This is counterintuitive to what we might expect, especially given that the discourse of the time had singled out the rich's corrupt and greedy business practices as the cause of the Financial Crisis. 
+- Prior to the Financial Crisis and in 2006 and 2007, high competence depiction was at 1.35% and 1.72% respectively. It remained at 1.72% during 2008, the year of the Financial Crisis, dipped to 1.34% in 2009, and increased to 1.87% in 2010.
+-  As for low competence portrayals, it was at a low of 0.20% and 0.12% in 2006 and 2007. It increased to 0.22% in 2008, surged to 0.60% in 2009, and eventually dipped back down to 0.27%. 
+-  This overall decreasing trend for high competence mentions and increasing trend for low competence mentions in 2009 (a year after the Financial Crisis) matches with the ongoing discourse of the time, whereby the rich, particularly the executives of Wall Street were condemned for their failed business practices and decisions. 
+-  After 2009 and in 2010, we can see the effects of the 2008 Financial Crisis discourse trailing off as the use of high competence terms increased again to a high while the use of low competence terms decreased to nearly where it was back in 2006. 
+-  Turning to morality, we see that high morality portrayals were at 0.46% in 2006 and 0.64% in 2007, these mentions dipped down to 0.49% in 2008, and moved back up to 0.95% in 2009 and to 0.62% in 2010. 
+-  As for low morality mentions, it was at 1.31% in 2006 and 1.23% in 2007, decreased to 0.62% in 2008, and back up to 0.79% in 2009 and 0.73% in 2010. 
+-  The increase in high morality descriptors and decrease in low morality descriptors after the 2008 FC is surprising, given that one of the main themes recurring in the discourse of the Financial Crisis is the corrupt and greedy business practices of the executives of Wall Street. 
 
 ### 2011 Occupy Wall Street Movement
 Participants of this movement protested against extreme wealth inequality and the exploitations and discriminatory practices of the rich. 
