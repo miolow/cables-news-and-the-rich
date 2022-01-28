@@ -94,3 +94,7 @@ Participants of this movement protested against extreme wealth inequality and th
 - In 2009 and 2010, high morality mention was at 0.46% and 0.62% respectively. This surprisingly increased to 0.91% in 2011, the year of the OWS movement. But after the peak of the movement, high morality mention dipped to 0.76% in 2012 and to 0.53% in 2013. 
 - As for low morality portrayals, it was at a high of 1.31% in 2009. It dipped to 0.73% in 2010 and 0.75% in 2011. A year after OWS, low morality depictions decreased further to 0.58% in 2012 and increased a little to 0.64% in 2013. 
 - These figures demonstrated that the media presented its most critical and negative coverage of the rich in 2009 and 2010, the years after the 2008 Financial Crisis. This negative coverage of the rich waned in 2011, 2012, and 2013, despite OWS’ rhetoric about how the rich is unprincipled, greedy, and immoral. Taken together, this suggests that OWS seem to exert little effect on swaying the media to present a more negative and critical coverage of the rich.  
+
+
+## Ideological Differences in the Portrayal of the Rich During the 2008 Financial Crisis
+### Competence
