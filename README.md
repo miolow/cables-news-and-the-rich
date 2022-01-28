@@ -66,17 +66,17 @@ For this event, the rich and their careless and unethical business practices wer
   <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Comp.png">
 </p>
 - Prior to the Financial Crisis and in 2006 and 2007, high competence depiction was at 1.35% and 1.72% respectively. It remained at 1.72% during 2008, the year of the Financial Crisis, dipped to 1.34% in 2009, and increased to 1.87% in 2010.
--  As for low competence portrayals, it was at a low of 0.20% and 0.12% in 2006 and 2007. It increased to 0.22% in 2008, surged to 0.60% in 2009, and eventually dipped back down to 0.27%. 
--  This overall decreasing trend for high competence mentions and increasing trend for low competence mentions in 2009 (a year after the Financial Crisis) matches with the ongoing discourse of the time, whereby the rich, particularly the executives of Wall Street were condemned for their failed business practices and decisions. 
--  After 2009 and in 2010, we can see the effects of the 2008 Financial Crisis discourse trailing off as the use of high competence terms increased again to a high while the use of low competence terms decreased to nearly where it was back in 2006. 
+- As for low competence portrayals, it was at a low of 0.20% and 0.12% in 2006 and 2007. It increased to 0.22% in 2008, surged to 0.60% in 2009, and eventually dipped back down to 0.27%. 
+- This overall decreasing trend for high competence mentions and increasing trend for low competence mentions in 2009 (a year after the Financial Crisis) matches with the ongoing discourse of the time, whereby the rich, particularly the executives of Wall Street were condemned for their failed business practices and decisions. 
+- After 2009 and in 2010, we can see the effects of the 2008 Financial Crisis discourse trailing off as the use of high competence terms increased again to a high while the use of low competence terms decreased to nearly where it was back in 2006. 
 
 #### Morality
 <p align="center">
   <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2008FC_Moral.png">
 </p>
--  Turning to morality, we see that high morality portrayals were at 0.46% in 2006 and 0.64% in 2007, these mentions dipped down to 0.49% in 2008, and moved back up to 0.95% in 2009 and to 0.62% in 2010. 
--  As for low morality mentions, it was at 1.31% in 2006 and 1.23% in 2007, decreased to 0.62% in 2008, and back up to 0.79% in 2009 and 0.73% in 2010. 
--  The increase in high morality descriptors and decrease in low morality descriptors after the 2008 FC is surprising, given that one of the main themes recurring in the discourse of the Financial Crisis is the corrupt and greedy business practices of the executives of Wall Street. 
+- Turning to morality, we see that high morality portrayals were at 0.46% in 2006 and 0.64% in 2007, these mentions dipped down to 0.49% in 2008, and moved back up to 0.95% in 2009 and to 0.62% in 2010. 
+- As for low morality mentions, it was at 1.31% in 2006 and 1.23% in 2007, decreased to 0.62% in 2008, and back up to 0.79% in 2009 and 0.73% in 2010. 
+- The increase in high morality descriptors and decrease in low morality descriptors after the 2008 FC is surprising, given that one of the main themes recurring in the discourse of the Financial Crisis is the corrupt and greedy business practices of the executives of Wall Street. 
 
 ### 2011 Occupy Wall Street Movement
 #### Competence
