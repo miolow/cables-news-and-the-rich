@@ -101,6 +101,7 @@ For this event, the rich and their careless and unethical business practices wer
 <p align="center">
   <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_comp_news.png">
 </p>
+
 - Prior to the Financial Crisis, in 2006 and 2007: 
   - MSNBC had more high competence depictions than Fox News (1.55% versus 1.16% in 2006; 1.84% versus 1.58% in 2007). 
   - MSNBC had less low competence depictions than Fox News in 2006 (0.18% versus 0.22%) but more low competence depictions in 2007 (0.15% versus 0.09%).
