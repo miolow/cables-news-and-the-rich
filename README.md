@@ -79,21 +79,18 @@ For this event, the rich and their careless and unethical business practices wer
 -  The increase in high morality descriptors and decrease in low morality descriptors after the 2008 FC is surprising, given that one of the main themes recurring in the discourse of the Financial Crisis is the corrupt and greedy business practices of the executives of Wall Street. 
 
 ### 2011 Occupy Wall Street Movement
-
+#### Competence
 <p align="center">
   <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Compare.png">
 </p>
-
-<p align="center">
-  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Moral.png">
-</p>
-
-#### Competence
 - High competence mentions was at 1.34% in 2009 and 1.87% in 2010. This fell in 2011, during the year of OWS, to 1.61% and then increased again to 1.74% in 2012. 
 - Low competence mention was at 0.20% in 2009 and 0.27% in 2010. This decreased to 0.22% in the year of OWS (2011) and increased to 0.26% in 2012 and 0.33% in 2013. 
 - These numbers tell us that the OWS Movement’s rhetoric about the rich’s catastrophic failure in business practices had little long term effect on the media’s portrayal of the rich. High competence depictions did not only not decrease but increased over time. 
 
 #### Morality
+<p align="center">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/2011OWS_Moral.png">
+</p>
 - In 2009 and 2010, high morality mention was at 0.46% and 0.62% respectively. This surprisingly increased to 0.91% in 2011, the year of the OWS movement. But after the peak of the movement, high morality mention dipped to 0.76% in 2012 and to 0.53% in 2013. 
 - As for low morality portrayals, it was at a high of 1.31% in 2009. It dipped to 0.73% in 2010 and 0.75% in 2011. A year after OWS, low morality depictions decreased further to 0.58% in 2012 and increased a little to 0.64% in 2013. 
 - These figures demonstrated that the media presented its most critical and negative coverage of the rich in 2009 and 2010, the years after the 2008 Financial Crisis. This negative coverage of the rich waned in 2011, 2012, and 2013, despite OWS’ rhetoric about how the rich is unprincipled, greedy, and immoral. Taken together, this suggests that OWS seem to exert little effect on swaying the media to present a more negative and critical coverage of the rich.  
@@ -104,11 +101,6 @@ For this event, the rich and their careless and unethical business practices wer
 <p align="center">
   <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_comp_news.png">
 </p>
-
-<p align="center">
-  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_moral_news.png">
-</p>
-
 - Prior to the Financial Crisis, in 2006 and 2007: 
   - MSNBC had more high competence depictions than Fox News (1.55% versus 1.16% in 2006; 1.84% versus 1.58% in 2007). 
   - MSNBC had less low competence depictions than Fox News in 2006 (0.18% versus 0.22%) but more low competence depictions in 2007 (0.15% versus 0.09%). 
@@ -128,6 +120,9 @@ For this event, the rich and their careless and unethical business practices wer
 
 
 ### Morality
+<p align="center">
+  <img width="850" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/fc_moral_news.png">
+</p>
 - Prior to the 2008 Financial Crisis:
   - MSNBC had a more negative coverage of the rich than Fox News, this is indicated by their lower high morality depictions (0.38% versus 0.53%) and higher low morality depictions (1.53% versus 1.09%) in 2006. 
   - This difference in coverage on the morality of the rich minimized slightly in 2007, not so much in terms of high morality depictions but more so for low morality portrayals. 
