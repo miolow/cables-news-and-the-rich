@@ -45,6 +45,7 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 <p align="center">
   <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combined_top20_comp.png">
 </p>
+
 - The top five commonly used high competence words include “top”, “success”, “creat-”, “worth”, and “power”. 
 - The top five low competence words include, “lost”, “lose”, “fail”, “loss”, and “mistak-”. 
 
@@ -52,6 +53,7 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 <p align="center">
   <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/combine_top20_moral.png">
 </p>
+
 - The top five low morality words to occur in this analysis are, “attack”, “kill”, “bad”, “wrong” and, “murder”. 
 - “Care”, “fair”, “nice”, “save”, and “correct” are the top five high morality words to occur. 
 
@@ -68,6 +70,24 @@ To count the occurrence of high/low competence/morality words, each dictionary i
 - In terms of high morality, the two news network differed. Fox News (0.76%) used more high morality terms than MSNBC (0.57%). 
 - For low morality, the two networks did not differed much. Fox News (0.94%) reported higher levels of low morality terms than MSNBC (0.88%). 
 - In general, Fox News and MSNBC's depiction of the rich differed only in terms of low competence, high morality, and low morality. 
+
+### Competence
+<p align="center">
+  <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/loComp_compare.png">
+</p>
+<p align="center">
+  <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/hiComp_compare.png">
+</p>
+
+
+### Morality 
+<p align="center">
+  <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/loMoral_Compare.png">
+</p>
+<p align="center">
+  <img width="1000" height="550" src="https://github.com/miolow/cables-news-and-the-rich/blob/main/hiMoral_Compare.png">
+</p>
+
 
 ## The Changing Portrayal of the Rich Across Time
 Over the period between 2006 to 2013, two major political events, namely, the 2008 Financial Crisis and the 2011 Occupy Wall Street movement had taken place. In each of these events, the rich were implicated in one way or another. 
